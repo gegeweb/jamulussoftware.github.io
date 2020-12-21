@@ -45,7 +45,6 @@ La plupart des connexions internet domestiques changent d'adresse IP après un c
 
 Notez aussi que votre routeur domestique peut également modifier l'adresse IP de la machine sur laquelle vous administrez votre serveur. Dans ce cas, vous pourriez devoir donner à cette machine une adresse IP statique dans la configuration DHCP du routeur, ou simplement faire un transfert de port vers toutes les adresses de votre réseau local (LAN).
 
-
 ## Notes de bas de page pour les geeks
 
 L'une des nombreuses fonctionnalités de Jamulus qui le rendent orgasmiquement merveilleux est le fait que vous puissiez installer un serveur en quelques secondes. Mais pourquoi les serveurs publics n'ont-ils pas besoin d'une redirection de port pour cela ?
